@@ -1,0 +1,1 @@
+export GO_BACKEND_TEMPLATE_DB_DSN=postgres://user:secretpassword@localhost/go-backend-template
